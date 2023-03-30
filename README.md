@@ -1,0 +1,1 @@
+Repositório de projetos do módulo 3 "técnicas de programação (PY)" do programa LM Tech Data Talents 2023.
