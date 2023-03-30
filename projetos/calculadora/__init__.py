@@ -7,3 +7,5 @@ def calcula(x, y, operacao):
         return multiplicacao(x, y)
     elif operacao == "-":
         return subtracao(x, y)
+    elif operacao == "/":
+        return divisao(x, y)
