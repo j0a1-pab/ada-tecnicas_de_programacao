@@ -12,3 +12,10 @@ def multiplicacao(a, b):
     
 def subtracao(a, b):
     return a - b
+
+def divisao(a, b):
+    if b != 0:
+        return a / b
+    else:
+        print("Divisão inválida (indeteminação)")
+        return 0
